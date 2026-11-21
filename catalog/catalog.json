@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-21T22:38:11.062Z",
+  "games": [
+    {
+      "id": "idle-legends",
+      "title": "Idle Legends",
+      "url": "https://arena.forjahub.online",
+      "package": {
+        "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/idle-legends.json"
+      },
+      "cover": "idle-legends/cover.jpg",
+      "banner": "idle-legends/banner.jpg",
+      "icon": "idle-legends/icon.png",
+      "tint": "#1f2329",
+      "tagline": "RPG idle com arena, prestígio e hall da fama.",
+      "pixelArt": true,
+      "achievements": [
+        {
+          "id": "primeira-vitoria",
+          "title": "Primeiro sangue",
+          "description": "Vença a primeira luta.",
+          "tier": "comum",
+          "icon": "idle-legends/achievements/primeira-vitoria.png"
+        },
+        {
+          "id": "nivel-10",
+          "title": "Aventureiro",
+          "description": "Chegue ao nível 10.",
+          "tier": "comum",
+          "icon": "idle-legends/achievements/nivel-10.png"
+        },
+        {
+          "id": "lendario",
+          "title": "Brilho lendário",
+          "description": "Tenha um item lendário.",
+          "tier": "rara",
+          "icon": "idle-legends/achievements/lendario.png"
+        },
+        {
+          "id": "evento",
+          "title": "Presente no evento",
+          "description": "Participe de um evento.",
+          "tier": "comum",
+          "icon": "idle-legends/achievements/evento.png"
+        },
+        {
+          "id": "feat_level_30",
+          "title": "No Auge",
+          "description": "Chegue ao nível 30.",
+          "tier": "rara",
+          "icon": "idle-legends/achievements/feat_level_30.png"
+        },
+        {
+          "id": "feat_prestige_1",
+          "title": "Renascido",
+          "description": "Faça o primeiro prestígio.",
+          "tier": "rara",
+          "icon": "idle-legends/achievements/feat_prestige_1.png"
+        },
+        {
+          "id": "feat_prestige_3",
+          "title": "Imortal",
+          "description": "Faça 3 prestígios.",
+          "tier": "épica",
+          "icon": "idle-legends/achievements/feat_prestige_3.png"
+        },
+        {
+          "id": "feat_ruin_1",
+          "title": "Terra Arrasada",
+          "description": "300 abates numa única exploração de uma área.",
+          "tier": "comum",
+          "icon": "idle-legends/achievements/feat_ruin_1.png"
+        },
+        {
+          "id": "feat_ruin_3",
+          "title": "Incendiário",
+          "description": "Terra Arrasada em 3 áreas.",
+          "tier": "rara",
+          "icon": "idle-legends/achievements/feat_ruin_3.png"
+        },
+        {
+          "id": "feat_ruin_all",
+          "title": "Fim do Mundo",
+          "description": "Terra Arrasada em todas as áreas.",
+          "tier": "épica",
+          "icon": "idle-legends/achievements/feat_ruin_all.png"
+        },
+        {
+          "id": "feat_farm_10",
+          "title": "Vigia",
+          "description": "10 horas de patrulha.",
+          "tier": "comum",
+          "icon": "idle-legends/achievements/feat_farm_10.png"
+        },
+        {
+          "id": "feat_farm_50",
+          "title": "Batedor",
+          "description": "50 horas de patrulha.",
+          "tier": "rara",
+          "icon": "idle-legends/achievements/feat_farm_50.png"
+        },
+        {
+          "id": "feat_farm_200",
+          "title": "Sentinela",
+          "description": "200 horas de patrulha.",
+          "tier": "épica",
+          "icon": "idle-legends/achievements/feat_farm_200.png"
+        },
+        {
+          "id": "feat_medals_all",
+          "title": "Colecionador",
+          "description": "Medalha de ouro em todos os inimigos comuns.",
+          "tier": "épica",
+          "icon": "idle-legends/achievements/feat_medals_all.png"
+        },
+        {
+          "id": "arena-top3",
+          "title": "Pódio da Arena",
+          "description": "Termine a temporada entre os 3 primeiros da Arena.",
+          "tier": "épica",
+          "icon": "idle-legends/achievements/arena-top3.png"
+        },
+        {
+          "id": "hall-da-fama",
+          "title": "Lenda da sala",
+          "description": "Entre para o hall da fama de uma sala.",
+          "tier": "épica",
+          "hidden": true,
+          "icon": "idle-legends/achievements/hall-da-fama.png"
+        }
+      ],
+      "iconRules": [
+        {
+          "match": "^bestiary_",
+          "icon": "idle-legends/achievements/extra-bestiary.png"
+        },
+        {
+          "match": "^boss_slain_",
+          "icon": "idle-legends/achievements/extra-boss.png"
+        },
+        {
+          "match": "^event_",
+          "icon": "idle-legends/achievements/extra-event.png"
+        },
+        {
+          "match": "^rarity_",
+          "icon": "idle-legends/achievements/extra-rarity.png"
+        },
+        {
+          "match": "^run_noheal",
+          "icon": "idle-legends/achievements/extra-noheal.png"
+        },
+        {
+          "match": "^run_kills_",
+          "icon": "idle-legends/achievements/extra-ruin.png"
+        },
+        {
+          "match": "^enemy_kills_",
+          "icon": "idle-legends/achievements/extra-medal.png"
+        },
+        {
+          "match": ".",
+          "icon": "idle-legends/achievements/extra-default.png"
+        }
+      ],
+      "banners": [
+        {
+          "id": "floresta",
+          "title": "Floresta Sombria",
+          "image": "idle-legends/banners/floresta.jpg",
+          "unlock": "primeira-vitoria"
+        },
+        {
+          "id": "minas",
+          "title": "Minas",
+          "image": "idle-legends/banners/minas.jpg",
+          "unlock": "nivel-10"
+        },
+        {
+          "id": "mercado",
+          "title": "Mercado",
+          "image": "idle-legends/banners/mercado.jpg",
+          "unlock": "lendario"
+        },
+        {
+          "id": "cerejeiras",
+          "title": "Bosque das Cerejeiras",
+          "image": "idle-legends/banners/cerejeiras.jpg",
+          "unlock": "evento"
+        },
+        {
+          "id": "cripta",
+          "title": "Cripta",
+          "image": "idle-legends/banners/cripta.jpg",
+          "unlock": "feat_level_30"
+        },
+        {
+          "id": "pantano",
+          "title": "Pântano",
+          "image": "idle-legends/banners/pantano.jpg",
+          "unlock": "feat_prestige_1"
+        },
+        {
+          "id": "floresta-chamas",
+          "title": "Floresta em chamas",
+          "image": "idle-legends/banners/floresta-chamas.jpg",
+          "unlock": "feat_ruin_1"
+        },
+        {
+          "id": "bestiario",
+          "title": "Bestiário",
+          "image": "idle-legends/banners/bestiario.jpg",
+          "unlock": "feat_farm_50"
+        },
+        {
+          "id": "caldeira",
+          "title": "Caldeira",
+          "image": "idle-legends/banners/caldeira.jpg",
+          "unlock": "feat_prestige_3"
+        },
+        {
+          "id": "caldeira-arrasada",
+          "title": "Caldeira arrasada",
+          "image": "idle-legends/banners/caldeira-arrasada.jpg",
+          "unlock": "feat_ruin_all"
+        },
+        {
+          "id": "arena",
+          "title": "Arena",
+          "image": "idle-legends/banners/arena.jpg",
+          "unlock": "arena-top3"
+        },
+        {
+          "id": "salao",
+          "title": "Salão da fama",
+          "image": "idle-legends/banners/salao.jpg",
+          "unlock": "hall-da-fama"
+        }
+      ]
+    }
+  ]
+}
