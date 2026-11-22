@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T19:38:19.261Z",
+  "updatedAt": "2026-11-22T20:11:54.147Z",
   "games": [
     {
       "id": "idle-legends",
@@ -287,6 +287,84 @@
           "description": "Tome 20 aldeias ou cidades.",
           "tier": "épica",
           "icon": "tribos/achievements/conquistador.png"
+        },
+        {
+          "id": "caudilho",
+          "title": "Caudilho",
+          "description": "Vença 10 partidas.",
+          "tier": "épica",
+          "icon": "tribos/achievements/caudilho.png"
+        },
+        {
+          "id": "carrasco",
+          "title": "Carrasco",
+          "description": "Derrote 100 tropas, somando as partidas.",
+          "tier": "épica",
+          "icon": "tribos/achievements/carrasco.png"
+        },
+        {
+          "id": "aprendiz",
+          "title": "Aprendiz",
+          "description": "Conclua a partida de treino.",
+          "tier": "comum",
+          "icon": "tribos/achievements/aprendiz.png"
+        },
+        {
+          "id": "metropole",
+          "title": "Metrópole",
+          "description": "Leve uma cidade ao nível IV.",
+          "tier": "comum",
+          "icon": "tribos/achievements/metropole.png"
+        },
+        {
+          "id": "diplomata",
+          "title": "Diplomata",
+          "description": "Firme uma trégua com outro clã.",
+          "tier": "comum",
+          "icon": "tribos/achievements/diplomata.png"
+        },
+        {
+          "id": "sabio",
+          "title": "Sábio",
+          "description": "Aprenda todos os saberes numa única partida.",
+          "tier": "rara",
+          "icon": "tribos/achievements/sabio.png"
+        },
+        {
+          "id": "desafio_duro",
+          "title": "Osso duro",
+          "description": "Vença uma partida contra um bot difícil.",
+          "tier": "rara",
+          "icon": "tribos/achievements/desafio_duro.png"
+        },
+        {
+          "id": "intocavel",
+          "title": "Intocável",
+          "description": "Vença sem perder nenhuma cidade.",
+          "tier": "rara",
+          "icon": "tribos/achievements/intocavel.png"
+        },
+        {
+          "id": "ilheu",
+          "title": "Senhor das ilhas",
+          "description": "Vença uma partida no mapa de ilhas.",
+          "tier": "rara",
+          "icon": "tribos/achievements/ilheu.png"
+        },
+        {
+          "id": "mestre_dos_clas",
+          "title": "Mestre dos clãs",
+          "description": "Vença com 5 clãs diferentes.",
+          "tier": "épica",
+          "icon": "tribos/achievements/mestre_dos_clas.png"
+        },
+        {
+          "id": "senhor_da_guerra",
+          "title": "Senhor da guerra",
+          "description": "Vença uma partida contra 4 bots difíceis.",
+          "tier": "épica",
+          "hidden": true,
+          "icon": "tribos/achievements/senhor_da_guerra.png"
         }
       ],
       "banners": [
@@ -297,10 +375,64 @@
           "unlock": "primeira_vitoria"
         },
         {
+          "id": "ruinas",
+          "title": "Ruínas na névoa",
+          "image": "tribos/banners/ruinas.jpg",
+          "unlock": "saqueador_de_ruinas"
+        },
+        {
+          "id": "corvos",
+          "title": "Floresta dos corvos",
+          "image": "tribos/banners/corvos.jpg",
+          "unlock": "cacador"
+        },
+        {
+          "id": "geada",
+          "title": "Fiorde gelado",
+          "image": "tribos/banners/geada.jpg",
+          "unlock": "limpa_trilhas"
+        },
+        {
           "id": "vitoria",
           "title": "Estandarte erguido",
           "image": "tribos/banners/vitoria.jpg",
           "unlock": "conquistador"
+        },
+        {
+          "id": "cidadela",
+          "title": "Cidadela",
+          "image": "tribos/banners/cidadela.jpg",
+          "unlock": "metropole"
+        },
+        {
+          "id": "conselho",
+          "title": "Tenda do conselho",
+          "image": "tribos/banners/conselho.jpg",
+          "unlock": "diplomata"
+        },
+        {
+          "id": "saberes",
+          "title": "Casa dos saberes",
+          "image": "tribos/banners/saberes.jpg",
+          "unlock": "sabio"
+        },
+        {
+          "id": "arquipelago",
+          "title": "Arquipélago",
+          "image": "tribos/banners/arquipelago.jpg",
+          "unlock": "ilheu"
+        },
+        {
+          "id": "forja",
+          "title": "Forja do clã",
+          "image": "tribos/banners/forja.jpg",
+          "unlock": "caudilho"
+        },
+        {
+          "id": "trono",
+          "title": "Salão do trono",
+          "image": "tribos/banners/trono.jpg",
+          "unlock": "senhor_da_guerra"
         }
       ]
     }
