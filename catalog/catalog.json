@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T23:37:57.445Z",
+  "updatedAt": "2026-11-22T19:38:19.261Z",
   "games": [
     {
       "id": "idle-legends",
@@ -236,6 +236,71 @@
           "title": "Salão da fama",
           "image": "idle-legends/banners/salao.jpg",
           "unlock": "hall-da-fama"
+        }
+      ]
+    },
+    {
+      "id": "tribos",
+      "title": "Tribos",
+      "url": "",
+      "package": {
+        "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/tribos.json"
+      },
+      "cover": "tribos/cover.jpg",
+      "banner": "tribos/banner.jpg",
+      "icon": "tribos/icon.png",
+      "tint": "#2d2721",
+      "tagline": "Estratégia em hexágonos sem turnos, para até 5 clãs.",
+      "pixelArt": false,
+      "achievements": [
+        {
+          "id": "primeira_vitoria",
+          "title": "Primeira vitória",
+          "description": "Vença uma partida.",
+          "tier": "comum",
+          "icon": "tribos/achievements/primeira_vitoria.png"
+        },
+        {
+          "id": "saqueador_de_ruinas",
+          "title": "Saqueador de ruínas",
+          "description": "Vasculhe 5 ruínas.",
+          "tier": "comum",
+          "icon": "tribos/achievements/saqueador_de_ruinas.png"
+        },
+        {
+          "id": "cacador",
+          "title": "Caçador",
+          "description": "Derrote 15 tropas, somando as partidas.",
+          "tier": "rara",
+          "icon": "tribos/achievements/cacador.png"
+        },
+        {
+          "id": "limpa_trilhas",
+          "title": "Limpa-trilhas",
+          "description": "Destrua 3 acampamentos de saqueadores.",
+          "tier": "rara",
+          "icon": "tribos/achievements/limpa_trilhas.png"
+        },
+        {
+          "id": "conquistador",
+          "title": "Conquistador",
+          "description": "Tome 20 aldeias ou cidades.",
+          "tier": "épica",
+          "icon": "tribos/achievements/conquistador.png"
+        }
+      ],
+      "banners": [
+        {
+          "id": "vale",
+          "title": "Vale do rio",
+          "image": "tribos/banners/vale.jpg",
+          "unlock": "primeira_vitoria"
+        },
+        {
+          "id": "vitoria",
+          "title": "Estandarte erguido",
+          "image": "tribos/banners/vitoria.jpg",
+          "unlock": "conquistador"
         }
       ]
     }
