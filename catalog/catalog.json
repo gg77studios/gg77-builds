@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:49:41.345Z",
+  "updatedAt": "2026-11-24T12:29:12.126Z",
   "games": [
     {
       "id": "idle-legends",
@@ -433,6 +433,162 @@
           "title": "Salão do trono",
           "image": "tribos/banners/trono.jpg",
           "unlock": "senhor_da_guerra"
+        }
+      ]
+    },
+    {
+      "id": "corre",
+      "title": "Corre",
+      "url": "",
+      "package": {
+        "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/corre.json"
+      },
+      "cover": "corre/cover.jpg",
+      "banner": "corre/banner.jpg",
+      "icon": "corre/icon.png",
+      "tint": "#2a1d2e",
+      "tagline": "Toque uma lanchonete em pixel art: de dia atende, de noite fecha o caixa.",
+      "pixelArt": true,
+      "achievements": [
+        {
+          "id": "tutorial",
+          "title": "Aprendiz de chapeiro",
+          "description": "Termine o dia de treino.",
+          "tier": "comum",
+          "icon": "corre/achievements/tutorial.png"
+        },
+        {
+          "id": "primeiro-dia",
+          "title": "Portas abertas",
+          "description": "Feche o caixa do primeiro dia de verdade.",
+          "tier": "comum",
+          "icon": "corre/achievements/primeiro-dia.png"
+        },
+        {
+          "id": "maquininha",
+          "title": "Aceita cartão",
+          "description": "Compre uma maquininha de cartão.",
+          "tier": "comum",
+          "icon": "corre/achievements/maquininha.png"
+        },
+        {
+          "id": "dia500",
+          "title": "Dia bom",
+          "description": "Venda R$ 500 num dia.",
+          "tier": "comum",
+          "icon": "corre/achievements/dia500.png"
+        },
+        {
+          "id": "cardapio3",
+          "title": "Cardápio variado",
+          "description": "Tenha 3 itens no cardápio.",
+          "tier": "comum",
+          "icon": "corre/achievements/cardapio3.png"
+        },
+        {
+          "id": "pesquisa",
+          "title": "Ouvindo o bairro",
+          "description": "Faça uma pesquisa de mercado.",
+          "tier": "comum",
+          "icon": "corre/achievements/pesquisa.png"
+        },
+        {
+          "id": "app",
+          "title": "Tô no app",
+          "description": "Entre no app de delivery.",
+          "tier": "comum",
+          "icon": "corre/achievements/app.png"
+        },
+        {
+          "id": "funcionario",
+          "title": "Primeira contratação",
+          "description": "Contrate o primeiro funcionário.",
+          "tier": "comum",
+          "icon": "corre/achievements/funcionario.png"
+        },
+        {
+          "id": "nota45",
+          "title": "Cinco estrelas",
+          "description": "Chegue na nota 4,5.",
+          "tier": "rara",
+          "icon": "corre/achievements/nota45.png"
+        },
+        {
+          "id": "dia1500",
+          "title": "Casa cheia",
+          "description": "Venda R$ 1.500 num dia.",
+          "tier": "rara",
+          "icon": "corre/achievements/dia1500.png"
+        },
+        {
+          "id": "salinha",
+          "title": "Saiu da garagem",
+          "description": "Mude pra uma salinha no bairro.",
+          "tier": "rara",
+          "icon": "corre/achievements/salinha.png"
+        },
+        {
+          "id": "me",
+          "title": "Agora é ME",
+          "description": "Vire ME no Simples Nacional.",
+          "tier": "rara",
+          "icon": "corre/achievements/me.png"
+        },
+        {
+          "id": "mes-no-verde",
+          "title": "Mês no verde",
+          "description": "Feche um mês com lucro.",
+          "tier": "rara",
+          "icon": "corre/achievements/mes-no-verde.png"
+        },
+        {
+          "id": "erp",
+          "title": "Gestão de verdade",
+          "description": "Compre o sistema de gestão (ERP).",
+          "tier": "rara",
+          "icon": "corre/achievements/erp.png"
+        },
+        {
+          "id": "centro",
+          "title": "Loja no centro",
+          "description": "Abra a loja no centro.",
+          "tier": "épica",
+          "icon": "corre/achievements/centro.png"
+        },
+        {
+          "id": "mil",
+          "title": "Mil clientes",
+          "description": "Atenda 1.000 clientes.",
+          "tier": "épica",
+          "icon": "corre/achievements/mil.png"
+        },
+        {
+          "id": "influencer",
+          "title": "Influencer do bairro",
+          "description": "Chegue a 500 seguidores.",
+          "tier": "épica",
+          "hidden": true,
+          "icon": "corre/achievements/influencer.png"
+        }
+      ],
+      "iconRules": [
+        {
+          "match": ".",
+          "icon": "corre/achievements/extra-default.png"
+        }
+      ],
+      "banners": [
+        {
+          "id": "esquina",
+          "title": "Esquina ao entardecer",
+          "image": "corre/banners/esquina.jpg",
+          "unlock": "primeiro-dia"
+        },
+        {
+          "id": "balcao",
+          "title": "Atrás do balcão",
+          "image": "corre/banners/balcao.jpg",
+          "unlock": "mes-no-verde"
         }
       ]
     }
