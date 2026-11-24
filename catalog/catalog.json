@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T18:47:11.850Z",
+  "updatedAt": "2026-11-24T20:05:18.600Z",
   "games": [
     {
       "id": "idle-legends",
@@ -692,6 +692,41 @@
           "tier": "épica",
           "hidden": true,
           "icon": "corre/achievements/influencer.png"
+        },
+        {
+          "id": "fiscal-aprovou",
+          "title": "Loja aprovada",
+          "description": "Passe pela vigilância sanitária sem multa.",
+          "tier": "comum",
+          "icon": "corre/achievements/fiscal-aprovou.png"
+        },
+        {
+          "id": "cardapio6",
+          "title": "Cardápio de respeito",
+          "description": "Tenha 6 itens no cardápio.",
+          "tier": "rara",
+          "icon": "corre/achievements/cardapio6.png"
+        },
+        {
+          "id": "fregueses",
+          "title": "Freguesia",
+          "description": "Tenha 3 fregueses fixos.",
+          "tier": "rara",
+          "icon": "corre/achievements/fregueses.png"
+        },
+        {
+          "id": "influencer-aprovou",
+          "title": "Aprovado pela influencer",
+          "description": "Atenda bem a influencer do bairro.",
+          "tier": "rara",
+          "icon": "corre/achievements/influencer-aprovou.png"
+        },
+        {
+          "id": "avenida",
+          "title": "Virou rede",
+          "description": "Abra a franquia na avenida.",
+          "tier": "épica",
+          "icon": "corre/achievements/avenida.png"
         }
       ],
       "iconRules": [
