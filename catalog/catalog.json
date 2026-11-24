@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T12:29:12.126Z",
+  "updatedAt": "2026-11-24T12:56:51.350Z",
   "games": [
     {
       "id": "idle-legends",
-      "title": "Idle Legends",
+      "title": "Legendforge",
       "url": "",
       "package": {
         "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/idle-legends.json"
@@ -241,7 +241,7 @@
     },
     {
       "id": "tribos",
-      "title": "Tribos",
+      "title": "Clanfall",
       "url": "",
       "package": {
         "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/tribos.json"
@@ -438,7 +438,7 @@
     },
     {
       "id": "corre",
-      "title": "Corre",
+      "title": "No Corre",
       "url": "",
       "package": {
         "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/corre.json"
