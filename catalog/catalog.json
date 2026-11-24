@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T14:56:14.683Z",
+  "updatedAt": "2026-11-24T18:47:11.850Z",
   "games": [
     {
       "id": "idle-legends",
@@ -670,13 +670,6 @@
           "description": "Feche um mês com lucro.",
           "tier": "rara",
           "icon": "corre/achievements/mes-no-verde.png"
-        },
-        {
-          "id": "erp",
-          "title": "Gestão de verdade",
-          "description": "Compre o sistema de gestão (ERP).",
-          "tier": "rara",
-          "icon": "corre/achievements/erp.png"
         },
         {
           "id": "centro",
