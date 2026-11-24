@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T12:56:51.350Z",
+  "updatedAt": "2026-11-24T14:56:14.683Z",
   "games": [
     {
       "id": "idle-legends",
@@ -162,6 +162,80 @@
         {
           "match": ".",
           "icon": "idle-legends/achievements/extra-default.png"
+        }
+      ],
+      "avatars": [
+        {
+          "id": "guerreiro",
+          "name": "Guerreiro",
+          "image": "idle-legends/avatars/guerreiro.png",
+          "rarity": "comum"
+        },
+        {
+          "id": "ladina",
+          "name": "Ladina",
+          "image": "idle-legends/avatars/ladina.png",
+          "rarity": "comum"
+        },
+        {
+          "id": "goblin",
+          "name": "Goblin",
+          "image": "idle-legends/avatars/goblin.png",
+          "rarity": "comum"
+        },
+        {
+          "id": "lobo-das-neves",
+          "name": "Lobo das neves",
+          "image": "idle-legends/avatars/lobo-das-neves.png",
+          "rarity": "comum"
+        },
+        {
+          "id": "kitsune",
+          "name": "Kitsune",
+          "image": "idle-legends/avatars/kitsune.png",
+          "rarity": "rara"
+        },
+        {
+          "id": "yurei",
+          "name": "Yurei",
+          "image": "idle-legends/avatars/yurei.png",
+          "rarity": "rara"
+        },
+        {
+          "id": "apparition",
+          "name": "Aparição",
+          "image": "idle-legends/avatars/apparition.png",
+          "rarity": "rara"
+        },
+        {
+          "id": "jarl-de-gelo",
+          "name": "Jarl de gelo",
+          "image": "idle-legends/avatars/jarl-de-gelo.png",
+          "rarity": "rara"
+        },
+        {
+          "id": "valquiria-caida",
+          "name": "Valquíria caída",
+          "image": "idle-legends/avatars/valquiria-caida.png",
+          "rarity": "épica"
+        },
+        {
+          "id": "oni-shogun",
+          "name": "Oni shogun",
+          "image": "idle-legends/avatars/oni-shogun.png",
+          "rarity": "épica"
+        },
+        {
+          "id": "lich-lord",
+          "name": "Lorde lich",
+          "image": "idle-legends/avatars/lich-lord.png",
+          "rarity": "épica"
+        },
+        {
+          "id": "ember-dragon",
+          "name": "Dragão de brasa",
+          "image": "idle-legends/avatars/ember-dragon.png",
+          "rarity": "lendária"
         }
       ],
       "banners": [
@@ -365,6 +439,62 @@
           "tier": "épica",
           "hidden": true,
           "icon": "tribos/achievements/senhor_da_guerra.png"
+        }
+      ],
+      "avatars": [
+        {
+          "id": "lanceiro",
+          "name": "Lanceiro",
+          "image": "tribos/avatars/lanceiro.jpg",
+          "rarity": "comum"
+        },
+        {
+          "id": "musgo",
+          "name": "Guarda do musgo",
+          "image": "tribos/avatars/musgo.jpg",
+          "rarity": "comum"
+        },
+        {
+          "id": "sentinela",
+          "name": "Sentinela",
+          "image": "tribos/avatars/sentinela.jpg",
+          "rarity": "comum"
+        },
+        {
+          "id": "lobo",
+          "name": "Pele de lobo",
+          "image": "tribos/avatars/lobo.jpg",
+          "rarity": "rara"
+        },
+        {
+          "id": "saqueador",
+          "name": "Saqueador",
+          "image": "tribos/avatars/saqueador.jpg",
+          "rarity": "rara"
+        },
+        {
+          "id": "geada",
+          "name": "Arqueira da geada",
+          "image": "tribos/avatars/geada.jpg",
+          "rarity": "rara"
+        },
+        {
+          "id": "sacerdote",
+          "name": "Sacerdote do sol",
+          "image": "tribos/avatars/sacerdote.jpg",
+          "rarity": "épica"
+        },
+        {
+          "id": "corvo",
+          "name": "Mestre dos corvos",
+          "image": "tribos/avatars/corvo.jpg",
+          "rarity": "épica"
+        },
+        {
+          "id": "sombra",
+          "name": "Sombra",
+          "image": "tribos/avatars/sombra.jpg",
+          "rarity": "épica"
         }
       ],
       "banners": [
@@ -575,6 +705,20 @@
         {
           "match": ".",
           "icon": "corre/achievements/extra-default.png"
+        }
+      ],
+      "avatars": [
+        {
+          "id": "cozinheiro",
+          "name": "Cozinheiro",
+          "image": "corre/avatars/cozinheiro.png",
+          "rarity": "comum"
+        },
+        {
+          "id": "cliente",
+          "name": "Cliente",
+          "image": "corre/avatars/cliente.png",
+          "rarity": "comum"
         }
       ],
       "banners": [
