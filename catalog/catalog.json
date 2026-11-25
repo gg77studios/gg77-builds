@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:05:18.600Z",
+  "updatedAt": "2026-11-25T01:58:50.588Z",
   "games": [
     {
       "id": "idle-legends",
@@ -324,7 +324,7 @@
       "banner": "tribos/banner.jpg",
       "icon": "tribos/icon.png",
       "tint": "#2d2721",
-      "tagline": "Estratégia em hexágonos sem turnos, para até 5 clãs.",
+      "tagline": "RTS em hexágonos para até 5 clãs: junte comida, madeira e pedra, erga muros e torres.",
       "pixelArt": false,
       "achievements": [
         {
