@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T01:58:50.588Z",
+  "updatedAt": "2026-11-25T15:39:07.666Z",
   "games": [
     {
       "id": "idle-legends",
@@ -761,6 +761,86 @@
           "title": "Atrás do balcão",
           "image": "corre/banners/balcao.jpg",
           "unlock": "mes-no-verde"
+        }
+      ]
+    },
+    {
+      "id": "dawnkeep",
+      "title": "Dawnkeep",
+      "url": "",
+      "package": {
+        "manifest": "https://github.com/gg77studios/gg77-builds/releases/download/catalog/dawnkeep.json"
+      },
+      "cover": "dawnkeep/cover.jpg",
+      "banner": "dawnkeep/banner.jpg",
+      "icon": "dawnkeep/icon.png",
+      "tint": "#1d2440",
+      "tagline": "Tower defense cooperativo de zumbis para até 4: segure o refúgio à noite, erga a vila de dia.",
+      "pixelArt": true,
+      "achievements": [
+        {
+          "id": "primeira-noite",
+          "title": "Amanheceu",
+          "description": "Sobreviva à primeira noite.",
+          "tier": "comum",
+          "icon": "dawnkeep/achievements/primeira-noite.png"
+        },
+        {
+          "id": "levanta",
+          "title": "Ninguém fica para trás",
+          "description": "Tenha um aliado caído levantado pelo time.",
+          "tier": "comum",
+          "icon": "dawnkeep/achievements/levanta.png"
+        },
+        {
+          "id": "carona",
+          "title": "Sobe aí",
+          "description": "Dê carona a um sobrevivente na estrada.",
+          "tier": "comum",
+          "icon": "dawnkeep/achievements/carona.png"
+        },
+        {
+          "id": "noite-10",
+          "title": "Dez noites",
+          "description": "Sobreviva a 10 noites numa partida.",
+          "tier": "rara",
+          "icon": "dawnkeep/achievements/noite-10.png"
+        },
+        {
+          "id": "colosso",
+          "title": "Caiu o Colosso",
+          "description": "Derrote um Colosso.",
+          "tier": "rara",
+          "icon": "dawnkeep/achievements/colosso.png"
+        },
+        {
+          "id": "vila-completa",
+          "title": "Vila de pé",
+          "description": "Tenha os 6 prédios da vila de pé ao mesmo tempo.",
+          "tier": "rara",
+          "icon": "dawnkeep/achievements/vila-completa.png"
+        },
+        {
+          "id": "pe-na-estrada",
+          "title": "Pé na estrada",
+          "description": "Limpe uma região e parta com o caminhão.",
+          "tier": "rara",
+          "icon": "dawnkeep/achievements/pe-na-estrada.png"
+        },
+        {
+          "id": "resgate",
+          "title": "O resgate chegou",
+          "description": "Limpe as regiões e vença a partida.",
+          "tier": "épica",
+          "icon": "dawnkeep/achievements/resgate.png"
+        },
+        {
+          "id": "brutal",
+          "title": "Osso duro",
+          "description": "Vença na dificuldade Brutal.",
+          "tier": "épica",
+          "hidden": true,
+          "icon": "dawnkeep/achievements/brutal.png"
         }
       ]
     }
